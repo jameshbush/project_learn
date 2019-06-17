@@ -1,15 +1,15 @@
-##PONY FOO Practical Modern JavaScript (2017)
+## PONY FOO Practical Modern JavaScript (2017)
 Covers ES6 syntax & best practices
 https://ponyfoo.com/books/practical-modern-javascript#toc
 
-###1. ECMAScript and the Future of JavaScript
+### 1. ECMAScript and the Future of JavaScript
 - [ ] A Brief History of JavaScript Standards
 - [ ] ECMAScript as a Rolling Standard
 - [ ] Browser Support and Complementary Tooling
 - [ ] Feature Themes in ES6
 - [ ] Future of JavaScript
 
-###2. ES6 Essentials
+### 2. ES6 Essentials
 - [X] Object Literals
     - Property Value Shorthands
     - Computed Property Names
@@ -39,44 +39,44 @@ https://ponyfoo.com/books/practical-modern-javascript#toc
     - Merits of const and let
     - Variables Declared Using const Are Not Immutable
 
-###3. Classes, Symbols, Objects, and Decorators
+### 3. Classes, Symbols, Objects, and Decorators
 - [ ] Classes
 - [ ] Symbols
 - [ ] Object Built-in Improvements
 - [ ] Decorators
 
-###4. Iteration and Flow Control
+### 4. Iteration and Flow Control
 - [ ] Promises
 - [ ] Iterator Protocol and Iterable Protocol
 - [ ] Generator Functions and Generator Objects
 - [ ] Async Functions
 - [ ] Asynchronous Iteration
 
-###5. Leveraging ECMAScript Collections
+### 5. Leveraging ECMAScript Collections
 - [ ] Using ES6 Maps
 - [ ] Understanding and Using WeakMap
 - [ ] Sets in ES6
 - [ ] ES6 WeakSets
 
-###6. Managing Property Access with Proxies
+### 6. Managing Property Access with Proxies
 - [ ] Getting Started with Proxy
 - [ ] Revocable Proxies
 - [ ] Proxy Trap Handlers
 - [ ] Advanced Proxy Traps
 
-###7. Built-in Improvements in ES6
+### 7. Built-in Improvements in ES6
 - [ ] Numbers
 - [ ] Math
 - [ ] Strings and Unicode
 - [ ] Regular Expressions
 - [ ] Array
 
-###8. JavaScript Modules
+### 8. JavaScript Modules
 - [ ] CommonJS
 - [ ] JavaScript Modules
 - [ ] Practical Considerations for ES Modules
 
-###9. Practical Considerations
+### 9. Practical Considerations
 - [ ] Variable Declarations
 - [ ] Template Literals
 - [ ] Shorthand Notation and Object Destructuring
