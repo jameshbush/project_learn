@@ -2,6 +2,10 @@
 Covers ES6 Modules & beyond
 https://ponyfoo.com/books/mastering-modular-javascript
 
+[HTML](https://ponyfoo.com/books/mastering-modular-javascript#toc),
+[CODE](https://github.com/mjavascript/mastering-modular-javascript),
+[LICENCE](https://ponyfoo.com/license)
+
 ### 1. Module Thinking
 - [ ] Introduction to Module Thinking
 - [ ] A Brief History of Modularity

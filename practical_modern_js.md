@@ -1,6 +1,9 @@
 ## PONY FOO Practical Modern JavaScript (2017)
 Covers ES6 syntax & best practices
-https://ponyfoo.com/books/practical-modern-javascript#toc
+
+[HTML](https://ponyfoo.com/books/practical-modern-javascript#toc),
+[CODE](https://github.com/mjavascript/practical-modern-javascript),
+[LICENCE](https://ponyfoo.com/license)
 
 ### 1. ECMAScript and the Future of JavaScript
 - [ ] A Brief History of JavaScript Standards
