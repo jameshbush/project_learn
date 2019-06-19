@@ -5,6 +5,8 @@ Covers ES6 syntax & best practices
 [CODE](https://github.com/mjavascript/practical-modern-javascript),
 [LICENCE](https://ponyfoo.com/license)
 
+:+1: = interesting
+
 ### 1. ECMAScript and the Future of JavaScript
 - [ ] A Brief History of JavaScript Standards
 - [ ] ECMAScript as a Rolling Standard
@@ -16,27 +18,34 @@ Covers ES6 syntax & best practices
 - [X] Object Literals
     - Property Value Shorthands
     - Computed Property Names
-    - Method Definitions
+    - Method Definitions :+1:
 - [X] Arrow Functions
-    - Lecical Scoping
+    - Lexical Scoping :+1:
     - Arrow Function Flavors
     - Merits and Use Cases
 - [X] Assignment Destructuring
     - Destructuring Objects
     - Destructuring Arrays
     - Function Parameter Defaults
-    - Function Parameter Destructuring
+    - Function Parameter Destructuring :+1:
     - Use Cases For Destructuring
 - [X] Rest Parameter and Spread Operator
     - Rest Parameters
     - Spread Operator
     - Shifting & Spreading
-- [ ] Template Literals
+- [X] Template Literals
     - String Interpolation
     - Multiple Template Literals
-    - Tagged Templates
+    - Tagged Templates :+1:
 - [ ] let and const Statements
     - Block Scoping and Let Statements
+        - [ ] [Branching logic](https://en.wikipedia.org/wiki/Branch_(computer_science\))
+        - [ ] [Block](https://en.wikipedia.org/wiki/Block_(programming\))
+        - [ ] [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming\))
+        - [ ] [Lexical Scope Movies](https://frontendmasters.com/courses/advanced-javascript/lexical-scope)
+        - [ ] [Lexical Scope YDKJS](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+        - [ ] [SO for loop let](https://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops/30900289#30900289)
+        - [ ] [In depth let and const](https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/)
     - Temporal Dead Zone
     - Const Statements
     - Merits of const and let
