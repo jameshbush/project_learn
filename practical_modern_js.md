@@ -39,9 +39,9 @@ Covers ES6 syntax & best practices
     - Tagged Templates :+1:
 - [ ] let and const Statements
     - Block Scoping and Let Statements
-        - [ ] [Branching logic](https://en.wikipedia.org/wiki/Branch_(computer_science\))
-        - [ ] [Block](https://en.wikipedia.org/wiki/Block_(programming\))
-        - [ ] [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming\))
+        - [ ] [Branching logic]( https://en.wikipedia.org/wiki/Branch_(computer_science\) )
+        - [ ] [Block]( https://en.wikipedia.org/wiki/Block_(programming\) )
+        - [ ] [Encapsulation]( https://en.wikipedia.org/wiki/Encapsulation_(computer_programming\) )
         - [ ] [Lexical Scope Movies](https://frontendmasters.com/courses/advanced-javascript/lexical-scope)
         - [ ] [Lexical Scope YDKJS](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
         - [ ] [SO for loop let](https://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops/30900289#30900289)
