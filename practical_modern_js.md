@@ -8,13 +8,19 @@ Covers ES6 syntax & best practices
 :+1: = interesting
 
 ### 1. ECMAScript and the Future of JavaScript
-- [X] A Brief History of JavaScript Standards
+- [X] A Brief History of JavaScript Standards :+1:
     - [X] [JSJ Podcast Eich](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
     - [ ] [Eich ES 4/Harmony Email](https://mail.mozilla.org/pipermail/es-discuss/2008-August/003400.html)
-- [ ] ECMAScript as a Rolling Standard
-- [ ] Browser Support and Complementary Tooling
-- [ ] Feature Themes in ES6
-- [ ] Future of JavaScript
+    - [X] [Test262](https://test262.report)
+    - [X] [TC39 Proposals](https://github.com/tc39/proposals)
+- [X] ECMAScript as a Rolling Standard :+1:
+- [X] Browser Support and Complementary Tooling :+1:
+  - [Babel Videos](https://babeljs.io/videos.html)
+  - [babel-preset-env](https://babeljs.io/docs/en/babel-preset-env)
+  - [ESLint Docs](https://eslint.org/docs/user-guide/getting-started)
+  - [My Tutorial Repo](https://github.com/jajajames/babel-setup)
+- [X] Feature Themes in ES6 (this section describes each chapter) :+1:
+- [X] Future of JavaScript :+1:
 
 ### 2. ES6 Essentials
 - [X] Object Literals
@@ -22,6 +28,8 @@ Covers ES6 syntax & best practices
     - Computed Property Names
     - Method Definitions :+1:
 - [X] Arrow Functions
+    - [ ] My PR on arrow function scope
+        - [Issue](https://github.com/mjavascript/practical-modern-javascript/issues/73)
     - Lexical Scoping :+1:
     - Arrow Function Flavors
     - Merits and Use Cases
@@ -32,6 +40,9 @@ Covers ES6 syntax & best practices
     - Function Parameter Destructuring :+1:
     - Use Cases For Destructuring
 - [X] Rest Parameter and Spread Operator
+    - [ ] My PR on Object rest/spread
+        - [Stage 4 Proposal](https://github.com/tc39/proposal-object-rest-spread)
+        - [Issue](https://github.com/mjavascript/practical-modern-javascript/issues/74)
     - Rest Parameters
     - Spread Operator
     - Shifting & Spreading
