@@ -50,7 +50,7 @@ Covers ES6 syntax & best practices
     - String Interpolation
     - Multiple Template Literals
     - Tagged Templates :+1:
-- [ ] let and const Statements
+- [X] let and const Statements
     - Block Scoping and Let Statements
         - [ ] [Branching logic]( https://en.wikipedia.org/wiki/Branch_(computer_science\) )
         - [ ] [Block]( https://en.wikipedia.org/wiki/Block_(programming\) )
