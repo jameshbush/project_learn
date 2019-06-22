@@ -8,7 +8,9 @@ Covers ES6 syntax & best practices
 :+1: = interesting
 
 ### 1. ECMAScript and the Future of JavaScript
-- [ ] A Brief History of JavaScript Standards
+- [X] A Brief History of JavaScript Standards
+    - [X] [JSJ Podcast Eich](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
+    - [ ] [Eich ES 4/Harmony Email](https://mail.mozilla.org/pipermail/es-discuss/2008-August/003400.html)
 - [ ] ECMAScript as a Rolling Standard
 - [ ] Browser Support and Complementary Tooling
 - [ ] Feature Themes in ES6
